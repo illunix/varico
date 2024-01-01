@@ -1,0 +1,6 @@
+[submodule "apps/varico-api"]
+	path = apps/varico-api
+	url = https://github.com/illunix/varico-api
+[submodule "apps/varico-web"]
+	path = apps/varico-web
+	url = https://github.com/illunix/varico-web
