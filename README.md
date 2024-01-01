@@ -10,9 +10,7 @@ Before you begin, ensure you have met the following requirements:
 ### Installation Instructions
 To install Varico, follow these steps:
 
-1. **Clone the Repository:**
-git clone --recurse-submodules -j8 https://github.com/illunix/varico
-This command clones the repository and its submodules concurrently.
+1. **Clone the Repository with submodules:**
+``git clone --recurse-submodules -j8 https://github.com/illunix/varico``
 2. **Start the Application:**
-docker compose up
-This command will build and start the Varico containers using Docker Compose.
+``docker compose up``
